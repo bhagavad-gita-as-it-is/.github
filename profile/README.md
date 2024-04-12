@@ -1,8 +1,8 @@
 <h1>Bhagavad-gītā as it is</h1>
 
-<a href="default.asp"><img src="Bhagvad-Gita.png" alt="Bhagvad Gita" width="100%" class="img-rounded" style="display:block;margin:0 auto;" loading="lazy"></a>
+<a href="#"><img src="Bhagvad-Gita.png" alt="Bhagvad Gita" width="100%" class="img-rounded" style="display:block;margin:0 auto;" loading="lazy"></a>
 
-<a href="default.asp"><img src="rainbow-superthin.webp" alt="line" loading="lazy"></a>
+<a href="#"><img src="rainbow-superthin.webp" alt="line" width="100%" loading="lazy"></a>
 
 <img src="/webp/bhagavad-gita-page-1.webp" alt="bhagavad-gita-page-1.webp" loading="lazy">
 <img src="/webp/bhagavad-gita-page-2.webp" alt="bhagavad-gita-page-2.webp" loading="lazy">
