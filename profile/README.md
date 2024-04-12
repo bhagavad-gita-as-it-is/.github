@@ -1,4 +1,4 @@
-# Bhagavad-gītā as it is
+<h1><a href="https://bhagavad-gita-as-it-is.github.io/">Bhagavad-gītā as it is</a></h1>
 > by A. C. Bhaktivedanta Swami Prabhupada
 
 <a href="#"><img src="Bhagvad-Gita.png" alt="Bhagvad Gita" width="100%" class="img-rounded" style="display:block;margin:0 auto;" loading="lazy"></a>
