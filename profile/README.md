@@ -1,4 +1,4 @@
-<h1>Bhagavad-gītā as it is</h1>
+<h1 style="text-align:center;">Bhagavad-gītā as it is</h1>
 
 <a href="#"><img src="Bhagvad-Gita.png" alt="Bhagvad Gita" width="100%" class="img-rounded" style="display:block;margin:0 auto;" loading="lazy"></a>
 
